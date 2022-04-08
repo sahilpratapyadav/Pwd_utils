@@ -5,6 +5,7 @@ import java.util.Base64.Decoder;
 import java.util.Base64.Encoder;
 
 public class PasswordService {
+	int i=10;
 	
 	public static String encode(String txt) {
 		
@@ -29,7 +30,10 @@ public class PasswordService {
 	
  
 } 
-      
+                                                                               
+
+
+                                
                                          
        
 
