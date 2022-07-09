@@ -3,6 +3,7 @@
   <groupId>AshokIt.in</groupId>
   <artifactId>ashokit-pwd-security</artifactId>
   <version>1.0.RELEASE</version>
+   <packaging>war</packaging>
   <name>Pwd_utils</name>
   
   <build>
